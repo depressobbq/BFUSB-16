@@ -1,0 +1,12 @@
+### Module positions - created on Sat 29 Apr 2023 01:12:35 AM EDT ###
+### Printed by Pcbnew version 6.0.2+dfsg-1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val         Package                                              PosX       PosY       Rot  Side
+F2        Fuse_Small  Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder  -139.9750   -68.5500    0.0000  bottom
+F3        Fuse_Small  Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder  -117.5750   -47.7250  -90.0000  bottom
+F4        Fuse_Small  Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder  -187.7250   -48.0500  -90.0000  bottom
+F5        Fuse_Small  Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder  -168.6750   -79.4750   90.0000  bottom
+F6        Fuse_Small  Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder   -98.5750   -78.8250   90.0000  bottom
+U1        SL2.1A      SO16                                            -140.1500   -54.2750   90.0000  bottom
+## End
